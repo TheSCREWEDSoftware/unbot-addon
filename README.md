@@ -1,16 +1,16 @@
 ## UnBot for AzerothCore Module
 
-一个基于 UnBot 插件修改的机器人控制插件，作为 AzerothCore 机器人模组的配套插件，方便玩家控制机器人
+> [!NOTE]  
+> If you've stumble upon this repository without being before or related to PlayerBots, take a look at the module [here](https://github.com/liyunfan1223/mod-playerbots) first!<br>
+> Also keep in mind that this translation project either in the GitHub informative or The Addon itself, it's worked by full contribuite work. If you find issues or bugs dont be afraid to report them here.
 
-目前仅对中文客户端有较好支持。
+UnBot is a PlayerBots Addon for Azerothcore, module called `mod-playerbots` that allows you to control your PlayerBots to your liking in some way. Makes more convenient over typing commands.
 
-安装方式：将 UnBot 和 YssBossLoot 放至 Interface/AddOns/ 目录下
-
-插件界面展示：
+The interface of the addon:
 
 ![](docs/display.png)
 
-添加指定职业机器人：
+The class interface of the addon:
 
 ![](docs/addclass.png)
 
